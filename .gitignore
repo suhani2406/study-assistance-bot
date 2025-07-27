@@ -1,0 +1,5 @@
+.env
+__pycache__/
+*.pyc
+user_summary.json
+user_notes.json
